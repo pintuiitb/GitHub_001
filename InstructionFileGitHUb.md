@@ -9,6 +9,9 @@
 
 
 
+# A branch can be created from the GitHub desktop window
+
+
 
 Why GitHub?
 This is an online platform where one can create a project (program) and share the link with otheres so that everyone can contribute to the project and github keeps track of every changes performed with time stamp.  
