@@ -18,7 +18,8 @@
 
 
 # Why GitHub?
-This is an online platform where one can create a project (program) and share the link with otheres so that everyone can contribute to the project and github keeps track of every changes performed with time stamp.  
-It is particularly useful while working on a large project with many team members.
+1. This is an online platform where one can create a project (program) and share the link with otheres so that everyone can contribute to the project and github keeps track of every changes performed with time stamp.  
+2. It is particularly useful while working on a large project with many team members.
 
 # Troubleshoot
+1. Conflicts can be resolved through the GitHub desktop window using visual studio
