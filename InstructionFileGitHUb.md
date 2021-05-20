@@ -13,6 +13,8 @@
 2. The changes performed in a feature branch is not displayed in the main default branch
 3. The branch can be created using the GitHub desktop window 
 4. Later the feature can be merged with main branch by a pull request
+5. One needs to select the branch (main, feature, or any other branch) on the GitHub desktop window before editing or creating a file.
+6. Next, commit to main/feature branch, push origin, and merge using pull request.
 
 
 # Why GitHub?
