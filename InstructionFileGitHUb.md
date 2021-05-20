@@ -17,7 +17,7 @@
 6. Next, commit to main/feature branch, push origin, and merge using pull request.
 
 
-Why GitHub?
+# Why GitHub?
 This is an online platform where one can create a project (program) and share the link with otheres so that everyone can contribute to the project and github keeps track of every changes performed with time stamp.  
 It is particularly useful while working on a large project with many team members.
 
